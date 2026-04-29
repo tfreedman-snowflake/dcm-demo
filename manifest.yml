@@ -1,0 +1,9 @@
+manifest_version: 2
+type: DCM_PROJECT
+default_target: 'DEV'
+
+targets:
+  DEV:
+    account_identifier: IGB85830
+    project_name: 'DCM_DEMO.PROJECTS.ECOMMERCE_PIPELINE'
+    project_owner: ACCOUNTADMIN

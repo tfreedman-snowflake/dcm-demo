@@ -1,0 +1,8 @@
+definition_version: "2"
+entities:
+  ECOMMERCE_PIPELINE:
+    type: dcm
+    artifacts:
+      - manifest.yml
+      - sources/
+    stage: DCM_DEMO.PROJECTS.ECOMMERCE_PIPELINE_STAGE
